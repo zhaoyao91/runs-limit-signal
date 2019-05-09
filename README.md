@@ -5,7 +5,7 @@ Limit concurrency of function executions by waiting a signal.
 ## Installation
 
 ```
-npm install runs-limit-sigal
+npm install runs-limit-signal
 ```
 
 ## Usage
